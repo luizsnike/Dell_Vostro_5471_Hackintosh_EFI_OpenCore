@@ -3,7 +3,7 @@ EFI to Install MacOS Ventura on Dell Vostro 5471 (Hachintosh)
 
 ## Informations
 
-OSX: Ventura 13.2
+OSX: Ventura 13.3.1
 
 BootLoader: OpenCore 0.9.0 (Update 07/03/2023) Checked issues with OC Validate
 
